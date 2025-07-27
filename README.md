@@ -94,7 +94,7 @@ IsKapisi_Odev/
      - `Ilan` tablosu (IlanID, IsverenID, Gereksinimler)
 
 3. **Bağlantı dizisini güncelleyin:**
-   - `FrmGiris.cs` ve `FrmKayit.cs` dosyalarındaki bağlantı dizisini kendi SQL Server ayarlarınıza göre düzenleyin
+   - `FrmGiris.cs` ve `FrmKayit.cs` gibi dosyalardaki bağlantı dizisini kendi SQL Server ayarlarınıza göre düzenleyin
 
 4. **Projeyi derleyin ve çalıştırın:**
    ```bash
@@ -112,7 +112,7 @@ Uygulama, modern ve kullanıcı dostu bir giriş ekranı ile başlar. Bu ekranda
 - Şifre görünürlük toggle özelliği
 - Kayıt olmak için geçiş butonu
 
-
+<img width="697" height="969" alt="Ekran görüntüsü 2025-07-27 210300" src="https://github.com/user-attachments/assets/9e953958-273c-4529-b123-da2c749ab008" />
 
 ### Aday Ana Ekranı
 Aday girişi yaptıktan sonra karşılaşılan ana panel şunları içerir:
@@ -125,7 +125,7 @@ Aday girişi yaptıktan sonra karşılaşılan ana panel şunları içerir:
   - Girişe Dön
 - **Ana İçerik Alanı**: Seçilen menü öğesine göre ilgili formların açıldığı dinamik panel
 
-
+<img width="1710" height="670" alt="Ekran görüntüsü 2025-07-27 210509" src="https://github.com/user-attachments/assets/2eea12ef-7f4d-4014-9157-4c3cd623dd88" />
 
 ### Panel Yapısı
 Proje, modern bir panel sistemi kullanır:
