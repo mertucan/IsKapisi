@@ -4,7 +4,7 @@
 
 ## 📖 Proje Hakkında
 
-Bu proje, **Veri Tabanı ve Yönetim Sistemleri Final Projesi** kapsamında geliştirilmiştir. İşsizlik sorununa çözüm bulmak amacıyla tasarlanan bu iş kapısı uygulaması, veritabanı yönetimi ve sistem tasarımı prensiplerini uygulayan kapsamlı bir platformdur. Platform, iki farklı kullanıcı tipi için optimize edilmiş özellikler sunar:
+Bu proje, **Marmara Üniversitesi - Veri Tabanı ve Yönetim Sistemleri Final Projesi** kapsamında geliştirilmiştir. İşsizlik sorununa çözüm bulmak amacıyla tasarlanan bu iş kapısı uygulaması, veritabanı yönetimi ve sistem tasarımı prensiplerini uygulayan kapsamlı bir platformdur. Platform, iki farklı kullanıcı tipi için optimize edilmiş özellikler sunar:
 
 - **Adaylar**: İş arayan kişiler
 - **İşverenler**: İş ilanı veren şirketler ve kişiler
